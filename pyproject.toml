@@ -7,6 +7,7 @@ authors = ["Edris <ali_berg1@yahoo.com>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 requests = "^2.27.1"
+pyowm = "^3.2.0"
 
 [tool.poetry.dev-dependencies]
 
